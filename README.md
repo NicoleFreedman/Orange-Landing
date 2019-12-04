@@ -1,1 +1,1 @@
-# Orange-Landing
+Simple landing page
